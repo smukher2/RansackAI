@@ -1,0 +1,6 @@
+"Rank and Sack will be done in an intra-organization manner, eventually as results accumulate inter-organization Rank and Sack will be done",,,,,,,,,,,
+First_Name,Last_Name,Author_ID_Orcid,Group_by_Organization,Position,AI_Score,Explainable_AI_Score,Statistical_Score,Net_Score_Out_Of_30,Net_Rank,Worse_Possible_Rank,Sack
+A,B,0000-0001,a,PI,10,10,10,30,1,100,No
+C,D,0000-0002,a,PI,0.5,0.5,0,1,100,100,Yes
+A,B,0000-0003,b,PI,10,10,10,30,1,100,No
+C,D,0000-0004,b,PI,0,0,1,1,100,100,Yes
